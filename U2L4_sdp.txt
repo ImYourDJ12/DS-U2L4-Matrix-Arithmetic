@@ -1,0 +1,5 @@
+1. Must have the same number of rows and columns.
+2. The rows of the first must match up with the columns of the second.
+3. The first number of the first matrix's dimension and last number of the second matrix's dimension.
+4. 
+5. 
